@@ -55,7 +55,9 @@ Overall Accuracy: 97%
 Strong performance on majority classes
 Slight lower performance on minority classes (data imbalance)
 
-![Prediction](results/sample_output.png)
+![Prediction](results/reslut 1.png)
+![Prediction](results/reslut 2.png)
+![Prediction](results/reslut 3.png)
 
 Tech Stack
 Python
